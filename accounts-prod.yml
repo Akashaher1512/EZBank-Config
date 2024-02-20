@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EZBank accounts related prod apis"
   contactDetails:
     name: "Kiran -Pord"
-    email: "akashaher@neutrinotechlabs.com"
+    email: "{cipher}49a06566a17b636b07db0066b211ac058bcf85857d5c05e57b94545ff3af5625b98e029c25a8a5c7dd9d17e08be9ba9f"
   onCallSupport:
     - (453) 392-4829
     - (453) 203-0384
