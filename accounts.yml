@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EZBank accounts related local apis"
   contactDetails:
     name: "Akash -Dev"
-    email: "akashaher@neutrinotechlabs.com"
+    email: "{cipher}49a06566a17b636b07db0066b211ac058bcf85857d5c05e57b94545ff3af5625b98e029c25a8a5c7dd9d17e08be9ba9f"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1345
