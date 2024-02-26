@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EZBank accounts related QA apis"
+  message: "Welcome to EZBank accounts related Test apis"
   contactDetails:
     name: "akshay -QA"
     email: "akshay@neutrinotechlabs.com"
